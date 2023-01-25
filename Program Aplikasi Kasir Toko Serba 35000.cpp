@@ -103,3 +103,6 @@ int main (){
     inti ();
     tampilanBawah ();
 }
+
+// Link Github  : https://github.com/ranifebriani27/Aplikasi-Kasir-Toko-Serba-35.000/edit/main/Program%20Aplikasi%20Kasir%20Toko%20Serba%2035000.cpp
+// Link Youtube : https://youtu.be/-Y6KH2kI9XA
